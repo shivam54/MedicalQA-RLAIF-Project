@@ -148,10 +148,6 @@ The pipeline evaluates model performance on:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is part of CSCI544 coursework. Please refer to the course guidelines for usage permissions.
-
 
 ## Acknowledgments
 
