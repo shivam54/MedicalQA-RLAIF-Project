@@ -11,7 +11,6 @@ MedicalQA Project/
 ├── MedicalQA.ipynb          # Main implementation notebook
 ├── README.md               # This file
 ├── requirements.txt        # Python dependencies
-└── Group4_CSCI544_Project_Presentation.pdf  # Project presentation
 ```
 
 ## Methodology
