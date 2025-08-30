@@ -152,10 +152,6 @@ The pipeline evaluates model performance on:
 
 This project is part of CSCI544 coursework. Please refer to the course guidelines for usage permissions.
 
-## Authors
-
-- Group 4 - CSCI544 Project
-- University of Southern California
 
 ## Acknowledgments
 
@@ -163,18 +159,6 @@ This project is part of CSCI544 coursework. Please refer to the course guideline
 - Alibaba Cloud for Qwen models
 - UltraMedical dataset contributors
 
-## Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{medicalqa_finetuning_2024,
-  title={Medical Q&A Fine-tuning with RLAIF},
-  author={Group 4, CSCI544},
-  year={2024},
-  howpublished={GitHub repository}
-}
-```
 
 ## Contact
 
